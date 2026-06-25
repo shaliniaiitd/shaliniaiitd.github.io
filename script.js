@@ -1,5 +1,4 @@
-Now the JavaScript with project case study data and modal logic:
-Action: file_editor create /tmp/portfolio/script.js --file-text "/* =========================================================
+/* =========================================================
    Shalini Agarwal — Portfolio JS
    - Header scroll state
    - Mobile menu
@@ -326,5 +325,4 @@ Action: file_editor create /tmp/portfolio/script.js --file-text "/* ============
   window.addEventListener(\"hashchange\", handleHash);
   handleHash();
 })();
-"
 Observation: Overwrite successful: /tmp/portfolio/script.js
