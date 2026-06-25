@@ -325,4 +325,3 @@
   window.addEventListener(\"hashchange\", handleHash);
   handleHash();
 })();
-Observation: Overwrite successful: /tmp/portfolio/script.js
