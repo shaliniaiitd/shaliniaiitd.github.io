@@ -1280,5 +1280,3 @@ footer a:hover { color: var(--amber); }
   .modal-metrics { grid-template-columns: 1fr; }
   .button { padding: 12px 18px; font-size: 0.88rem; }
 }
-"
-Observation: Overwrite successful: /tmp/portfolio/styles.css
